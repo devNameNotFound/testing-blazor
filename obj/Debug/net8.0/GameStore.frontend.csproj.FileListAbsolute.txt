@@ -26,3 +26,4 @@
 /Users/devjson/Projects/GameStore/GameStore.frontend/obj/Debug/net8.0/GameStore.frontend.pdb
 /Users/devjson/Projects/GameStore/GameStore.frontend/obj/Debug/net8.0/GameStore.frontend.genruntimeconfig.cache
 /Users/devjson/Projects/GameStore/GameStore.frontend/obj/Debug/net8.0/ref/GameStore.frontend.dll
+/Users/devjson/Projects/GameStore/GameStore.frontend/obj/Debug/net8.0/GameStore.frontend.sourcelink.json
