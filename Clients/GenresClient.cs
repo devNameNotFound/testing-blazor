@@ -21,7 +21,7 @@ public class GenresClient
         },
         new(){
             Id = 4,
-            Name = "KIds and Family",
+            Name = "Kids and Family",
         },
     ];
 
