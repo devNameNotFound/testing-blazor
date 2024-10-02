@@ -44,6 +44,9 @@ public class GamesClient
             Price = game.Price,
             ReleaseDate = game.ReleaseDate
         };
+        games.Add(gameSummary);
+            Console.WriteLine(gameSummary.Name);   
+
     }
     public GameDetails GetGame(int id)
     {
@@ -77,7 +80,7 @@ public class GamesClient
 
     public void DeleteGame(int id)
     {
-        
+
         var game = GetGameSummaryById(id);
         games.Remove(game);
     }
