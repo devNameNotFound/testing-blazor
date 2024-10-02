@@ -44,10 +44,9 @@ public class GamesClient
             Price = game.Price,
             ReleaseDate = game.ReleaseDate
         };
-        games.Add(gameSummary);
-            Console.WriteLine(gameSummary.Name);   
-
+        games.Add(gameSummary);  
     }
+    
     public GameDetails GetGame(int id)
     {
         GameSummary game = GetGameSummaryById(id);
